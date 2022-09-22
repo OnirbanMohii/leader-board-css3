@@ -99,13 +99,7 @@ hr {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 24px;
-    box-shadow: 1px 1px gainsboro;
 }
-
-.courses :hover {
-    box-shadow: 1px 1px gainsboro;
-}
-
 
 
 .course .course-banner img {
